@@ -1,0 +1,36 @@
+C:\Users\taway\Desktop\job app\crossover\crossover\bin\Debug\net5.0-windows\crossover.exe
+C:\Users\taway\Desktop\job app\crossover\crossover\bin\Debug\net5.0-windows\crossover.deps.json
+C:\Users\taway\Desktop\job app\crossover\crossover\bin\Debug\net5.0-windows\crossover.runtimeconfig.json
+C:\Users\taway\Desktop\job app\crossover\crossover\bin\Debug\net5.0-windows\crossover.runtimeconfig.dev.json
+C:\Users\taway\Desktop\job app\crossover\crossover\bin\Debug\net5.0-windows\crossover.dll
+C:\Users\taway\Desktop\job app\crossover\crossover\bin\Debug\net5.0-windows\ref\crossover.dll
+C:\Users\taway\Desktop\job app\crossover\crossover\bin\Debug\net5.0-windows\crossover.pdb
+C:\Users\taway\Desktop\job app\crossover\crossover\obj\Debug\net5.0-windows\crossover.vbprojAssemblyReference.cache
+C:\Users\taway\Desktop\job app\crossover\crossover\obj\Debug\net5.0-windows\crossover.vbproj.GenerateResource.cache
+C:\Users\taway\Desktop\job app\crossover\crossover\obj\Debug\net5.0-windows\crossover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taway\Desktop\job app\crossover\crossover\obj\Debug\net5.0-windows\crossover.AssemblyInfoInputs.cache
+C:\Users\taway\Desktop\job app\crossover\crossover\obj\Debug\net5.0-windows\crossover.AssemblyInfo.vb
+C:\Users\taway\Desktop\job app\crossover\crossover\obj\Debug\net5.0-windows\crossover.vbproj.CoreCompileInputs.cache
+C:\Users\taway\Desktop\job app\crossover\crossover\obj\Debug\net5.0-windows\crossover.dll
+C:\Users\taway\Desktop\job app\crossover\crossover\obj\Debug\net5.0-windows\ref\crossover.dll
+C:\Users\taway\Desktop\job app\crossover\crossover\obj\Debug\net5.0-windows\crossover.pdb
+C:\Users\taway\Desktop\job app\crossover\crossover\obj\Debug\net5.0-windows\crossover.genruntimeconfig.cache
+C:\Users\taway\Desktop\job app\crossover\crossover\obj\Debug\net5.0-windows\crossover.Form1.resources
+C:\Users\guest.p\Documents\VB_to_Solidworks\crossover\crossover\bin\Debug\net5.0-windows\crossover.exe
+C:\Users\guest.p\Documents\VB_to_Solidworks\crossover\crossover\bin\Debug\net5.0-windows\crossover.deps.json
+C:\Users\guest.p\Documents\VB_to_Solidworks\crossover\crossover\bin\Debug\net5.0-windows\crossover.runtimeconfig.json
+C:\Users\guest.p\Documents\VB_to_Solidworks\crossover\crossover\bin\Debug\net5.0-windows\crossover.runtimeconfig.dev.json
+C:\Users\guest.p\Documents\VB_to_Solidworks\crossover\crossover\bin\Debug\net5.0-windows\crossover.dll
+C:\Users\guest.p\Documents\VB_to_Solidworks\crossover\crossover\bin\Debug\net5.0-windows\ref\crossover.dll
+C:\Users\guest.p\Documents\VB_to_Solidworks\crossover\crossover\bin\Debug\net5.0-windows\crossover.pdb
+C:\Users\guest.p\Documents\VB_to_Solidworks\crossover\crossover\obj\Debug\net5.0-windows\crossover.vbproj.AssemblyReference.cache
+C:\Users\guest.p\Documents\VB_to_Solidworks\crossover\crossover\obj\Debug\net5.0-windows\crossover.Form1.resources
+C:\Users\guest.p\Documents\VB_to_Solidworks\crossover\crossover\obj\Debug\net5.0-windows\crossover.vbproj.GenerateResource.cache
+C:\Users\guest.p\Documents\VB_to_Solidworks\crossover\crossover\obj\Debug\net5.0-windows\crossover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest.p\Documents\VB_to_Solidworks\crossover\crossover\obj\Debug\net5.0-windows\crossover.AssemblyInfoInputs.cache
+C:\Users\guest.p\Documents\VB_to_Solidworks\crossover\crossover\obj\Debug\net5.0-windows\crossover.AssemblyInfo.vb
+C:\Users\guest.p\Documents\VB_to_Solidworks\crossover\crossover\obj\Debug\net5.0-windows\crossover.vbproj.CoreCompileInputs.cache
+C:\Users\guest.p\Documents\VB_to_Solidworks\crossover\crossover\obj\Debug\net5.0-windows\crossover.dll
+C:\Users\guest.p\Documents\VB_to_Solidworks\crossover\crossover\obj\Debug\net5.0-windows\ref\crossover.dll
+C:\Users\guest.p\Documents\VB_to_Solidworks\crossover\crossover\obj\Debug\net5.0-windows\crossover.pdb
+C:\Users\guest.p\Documents\VB_to_Solidworks\crossover\crossover\obj\Debug\net5.0-windows\crossover.genruntimeconfig.cache
